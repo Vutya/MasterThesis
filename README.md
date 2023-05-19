@@ -1,5 +1,5 @@
 # MasterThesis
-Code for the parameter fitting with genetic algorithms and pattern search in MATLAB for Master thesis at the Institute for Cognitive Neuroscience, HSE. 
+Code for the parameter fitting and recovering with genetic algorithms and pattern search in MATLAB for Master thesis at the Institute for Cognitive Neuroscience, HSE. 
 
 allcomb is an external script that builds all combinations for the given lists.
 
